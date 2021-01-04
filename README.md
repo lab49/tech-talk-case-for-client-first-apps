@@ -8,6 +8,10 @@ There is a video recording of the talk on [YouTube](https://youtu.be/KutIs6CUikg
 
 ---
 
+#### [Watch the recording here](https://youtu.be/KutIs6CUikg)
+
+---
+
 As JavaScript has grown and matured, the next 10 years may see progressive enhancement flipped on its head, as people develop apps that work offline, and progressively pull in data from servers. This talk covers implications of this shift, ranging from technical aspects to the social impact it would have.
 
 #### Further resources:
