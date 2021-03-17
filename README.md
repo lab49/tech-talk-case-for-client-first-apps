@@ -4,7 +4,7 @@
 
 This is a companion repository to the [Lab49](https://www.lab49.com/) tech talk of the same name.
 
-There is a video recording of the talk on [YouTube](https://youtu.be/KutIs6CUikg). Further discussion can be found at [LinkedIn](https://www.linkedin.com).
+There is a video recording of the talk on [YouTube](https://youtu.be/yKPKuH6YCTc). Further discussion can be found at [LinkedIn](https://www.linkedin.com).
 
 ---
 
