@@ -8,7 +8,7 @@ There is a video recording of the talk on [YouTube](https://youtu.be/yKPKuH6YCTc
 
 ---
 
-#### [Watch the recording here](https://youtu.be/KutIs6CUikg)
+#### [Watch the recording here](https://youtu.be/yKPKuH6YCTc)
 
 ---
 
